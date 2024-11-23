@@ -1,9 +1,9 @@
-Name: FATIMA KHAN
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS9421
-Domain: Frontend Web Development
-Duration: October to November 2024
-Mentor: Neela Santhosh
+**Name**: FATIMA KHAN
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT08DS9421
+**Domain**: Frontend Web Development
+**Duration**: October to November 2024
+**Mentor**: Neela Santhosh
 
 Overview of the Project
 Project: WEATHER DASHBOARD

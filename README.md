@@ -7,11 +7,13 @@
 
 ## Overview of the Project
 ### Project: WEATHER DASHBOARD
-### Objective: Develop a weather dashboard that fetches weather data from an API and displays it
+### Objective
+Develop a weather dashboard that fetches weather data from an API and displays it
 to users. This project involves using JavaScript and a weather API. Fetch weather
 data from an API. Display current weather conditions, forecasts, and weather icons.
 
-### Overview: This weather app allows users to search for current weather information by entering a city name. It fetches data from the OpenWeather API and displays the results in a user-friendly interface.
+### Overview
+This weather app allows users to search for current weather information by entering a city name. It fetches data from the OpenWeather API and displays the results in a user-friendly interface.
 
 ### Key Features:
 

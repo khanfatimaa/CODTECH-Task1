@@ -1,5 +1,5 @@
-**Name**: FATIMA KHAN
-**Company**: CODTECH IT SOLUTIONS
+### **Name**: FATIMA KHAN
+### **Company**: CODTECH IT SOLUTIONS
 **ID**: CT08DS9421
 **Domain**: Frontend Web Development
 **Duration**: October to November 2024

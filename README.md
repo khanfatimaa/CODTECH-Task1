@@ -6,8 +6,8 @@
 **Mentor**: Neela Santhosh
 
 ## Overview of the Project
-Project: WEATHER DASHBOARD
-Objective: Develop a weather dashboard that fetches weather data from an API and displays it
+### Project: WEATHER DASHBOARD
+### Objective: Develop a weather dashboard that fetches weather data from an API and displays it
 to users. This project involves using JavaScript and a weather API. Fetch weather
 data from an API. Display current weather conditions, forecasts, and weather icons.
 
